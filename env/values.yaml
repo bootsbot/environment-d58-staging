@@ -15,7 +15,7 @@ expose:
   config:
     domain: kill-9.uk
     exposer: Ingress
-    http: "false"
+    http: "true"
     tlsacme: "true"
 jenkins:
   Servers:
